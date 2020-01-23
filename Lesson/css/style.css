@@ -1,0 +1,24 @@
+.teal{
+    background-color: teal !important;
+    margin-bottom: 30px;
+}
+
+.brown{
+    background-color: brown;
+    height: 200px;
+}
+
+.green{
+    background-color: green;
+    height: 200px;
+}
+
+.black{
+    background-color: black;
+    height: 200px;
+}
+
+.test{
+    height: 500px;
+    background-color: aqua;
+}
